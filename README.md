@@ -13,10 +13,6 @@ EAZYQUIZZ is a dynamic quiz platform designed to bridge the gap between students
 - **User Authentication:** Easy sign-up and log-in functionality ensures a personalized and secure experience.
 - **Responsive Design:** Enjoy a fully responsive interface that works flawlessly across all devices.
 
-## Live Demo
-
-You can check the responsiveness and working of the project by visiting our live demo on Vercel: [https://gdg-eazyquizz.vercel.app/](https://gdg-eazyquizz.vercel.app/)
-
 ## How It Works
 
 1. **Sign Up / Log In:** Register or log in to access the full suite of features.
