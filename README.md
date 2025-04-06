@@ -1,6 +1,5 @@
 # GDG-EAZYQUIZZ
 
-# EAZYQUIZZ
 
 EAZYQUIZZ is a dynamic quiz platform designed to bridge the gap between students and teachers. By automating routine tasks, our platform significantly reduces the teacher's workload while offering powerful AI features to enhance the learning experience.
 
